@@ -4,19 +4,19 @@
 }
 
 .darken-existing-bg {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .7);
 }
 
-.text-rem-3 {
-    font-size: 3rem;
+.text-rem-2 {
+    font-size: 2rem;
 }
 
 .blue-check {
-    color: blue;
+    color: rgb(0, 123, 255);
     background-color: white;
 }
 
 .nav-border-bottom-blue {
     border-bottom: solid;
-    border-color: blue;
+    border-color: rgb(0, 123, 255);
 }
