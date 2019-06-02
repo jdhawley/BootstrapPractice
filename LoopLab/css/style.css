@@ -15,3 +15,8 @@
     color: blue;
     background-color: white;
 }
+
+.nav-border-bottom-blue {
+    border-bottom: solid;
+    border-color: blue;
+}
