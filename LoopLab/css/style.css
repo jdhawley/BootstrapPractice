@@ -1,0 +1,17 @@
+#home {
+    background-image: url('/LoopLab/img/looplab/home.jpg');
+    background-size: cover;
+}
+
+.darken-existing-bg {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.text-rem-3 {
+    font-size: 3rem;
+}
+
+.blue-check {
+    color: blue;
+    background-color: white;
+}
