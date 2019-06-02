@@ -7,10 +7,6 @@
     background-color: rgba(0, 0, 0, .7);
 }
 
-.text-rem-2 {
-    font-size: 2rem;
-}
-
 .blue-check {
     color: rgb(0, 123, 255);
     background-color: white;
@@ -19,4 +15,8 @@
 .nav-border-bottom-blue {
     border-bottom: solid;
     border-color: rgb(0, 123, 255);
+}
+
+.white-check {
+    color: #333;
 }
