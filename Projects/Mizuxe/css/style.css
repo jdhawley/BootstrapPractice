@@ -29,3 +29,7 @@ div.nav li, div.nav p {
     border-width: 1px;
     border-color: rgb(50, 146, 166);
 }
+
+.author-image {
+    margin-top: -50px;
+}
