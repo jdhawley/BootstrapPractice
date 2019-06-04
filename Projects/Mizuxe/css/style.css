@@ -33,3 +33,7 @@ div.nav li, div.nav p {
 .author-image {
     margin-top: -50px;
 }
+
+.message-textbox {
+    height: 10rem;
+}
