@@ -16,7 +16,16 @@ div.nav li, div.nav p {
     opacity: .9;
 }
 
-.btn-new-primary {
-    background-color: rgb(50, 146, 166);
-    color: white;
+.text-new-primary {
+    color: rgb(50, 146, 166);
+}
+
+.bg-new-primary {
+    background-color:rgb(50, 146, 166);
+}
+
+.outline-new-primary {
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(50, 146, 166);
 }
