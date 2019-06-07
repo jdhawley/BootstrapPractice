@@ -1,39 +1,30 @@
 div.nav li, div.nav p {
-    font-size: 1.5rem;
-}
+  font-size: 1.5rem; }
 
 #home, .background-image {
-    background-image: url('../img/mountains.jpg');
-    background-size: cover;
-    margin-top: 104px;
-}
+  background-image: url("../img/mountains.jpg");
+  background-size: cover;
+  margin-top: 104px; }
 
 .blue-overlay {
-    background-color: rgba(50, 146, 166, .8);
-}
+  background-color: rgba(50, 146, 166, 0.8); }
 
 .nav {
-    opacity: .9;
-}
+  opacity: .9; }
 
 .text-new-primary {
-    color: rgb(50, 146, 166);
-}
+  color: #3292a6; }
 
 .bg-new-primary {
-    background-color:rgb(50, 146, 166);
-}
+  background-color: #3292a6; }
 
 .outline-new-primary {
-    border: solid;
-    border-width: 1px;
-    border-color: rgb(50, 146, 166);
-}
+  border: solid;
+  border-width: 1px;
+  border-color: #3292a6; }
 
 .author-image {
-    margin-top: -50px;
-}
+  margin-top: -50px; }
 
 .message-textbox {
-    height: 10rem;
-}
+  height: 10rem; }
